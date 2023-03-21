@@ -14,7 +14,7 @@ hello-microverse project
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="Hello Microverse"></a>
+# 📖 [HELLO MICROVERSE PROJECT] <a name="Hello Microverse"></a>
 >This is the first project as a full-stack microverse student on day 2 of the programm.
 
 **[your_project__name]** is a...
